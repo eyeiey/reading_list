@@ -36,7 +36,7 @@ List of content studied or to study
 #### Facial Recognition
 
 
-## NLP
+## Natural Language Processing
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) by Devlin et al. 2018.
 
 
