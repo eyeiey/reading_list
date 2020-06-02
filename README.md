@@ -10,6 +10,7 @@ List of content studied or to study
 * [L'apprentissage face à la malédiction de la grande dimension](https://www.college-de-france.fr/site/stephane-mallat/course-2017-2018.htm) by Stéphane Mallat, Lectures, Collège de France, 2017-2018.
 
 ## Reinforcement Learning
+* [Open AI Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) by OpenAI.
 * [Reinforcement Learning Lectures UCL x DeepMind](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb) by DeepMind, Lectures, UCL, 2018.
 * [Reinforcement Learning Lectures UCL x DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&t=1s) by David Silver, Lectures, UCL, 2015.
 
@@ -67,6 +68,7 @@ List of content studied or to study
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
 
 ## General Machine Learning Industry
+* [Over 200 of the Best Machine Learning, NLP, and Python Tutorials](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc) by Robbie Allen. Medium Article. 2018.
 * [Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI) by Andrew NG et al. CS230. 2018.
 
 What did authors try to accomplish?
