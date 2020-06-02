@@ -53,6 +53,9 @@ List of content studied or to study
 ## Anesthesiology
 * [Reinforcement Learning for Closed-Loop Propofol Anesthesia: A Study in Human Volunteers](http://www.jmlr.org/papers/v15/moore14a.html) by Moore et al. 2014.
 
+## Monte Carlo Tree Search
+* [Nested Monte-Carlo Search](https://www.lamsade.dauphine.fr/~cazenave/papers/nested.pdf) by Cazenave. 2009.
+
 
 ## Real Time Bidding
 #### Bid Landscape Forecasting
