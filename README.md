@@ -66,7 +66,7 @@ List of content studied or to study
 ## General Machine Learning Industry
 * [Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI) by Andrew NG et al. CS230. 2018.
 
-* What did authors try to accomplish?
-* What were the key elements of the approach?
-* What can you use yourself?
-* What other references do you want to follow?
+What did authors try to accomplish?
+What were the key elements of the approach?
+What can you use yourself?
+What other references do you want to follow?
