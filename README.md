@@ -49,6 +49,9 @@ List of content studied or to study
 ##  Quantization
 * [Defensive Quantization: When Efficiency Meets Robustness](https://openreview.net/pdf?id=ryetZ20ctX) by Lin et al, ICLR, 2019.
 
+## Anesthesiology
+* [Reinforcement Learning for Closed-Loop Propofol Anesthesia: A Study in Human Volunteers](http://www.jmlr.org/papers/v15/moore14a.html) by Moore et al. 2014.
+
 
 ## Real Time Bidding
 #### Bid Landscape Forecasting
