@@ -37,6 +37,7 @@ List of content studied or to study
 
 
 ## Natural Language Processing
+* [The Future of Natural Language Processing](https://www.youtube.com/watch?v=G5lmya6eKtc) by Thomas Wolf for Hugging Face. 2020.
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) by Devlin et al. 2018.
 
 
@@ -61,3 +62,10 @@ List of content studied or to study
 * [Handling Forecast Errors While Bidding for Display Advertising](http://wnzhang.net/share/rtb-papers/forecast-err.pdf) by Kevin J. Lang, Benjamin Moseley, Sergei Vassilvitskii. WWW 2012.
 * [Bid Landscape Forecasting in Online Ad Exchange Marketplace](http://wnzhang.net/share/rtb-papers/bid-lands.pdf) by Ying Cui et al. KDD 2011.
 * [Functional Bid Landscape Forecasting for Display Advertising](http://apex.sjtu.edu.cn/public/files/members/20160929/functional-bid-lands.pdf) by Yuchen Wang et al. ECML-PKDD 2016.
+
+## General Machine Learning Industry
+* [Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI) by Andrew NG et al. CS230. 2018.
+** What did authors try to accomplish?
+** What were the key elements of the approach?
+** What can you use yourself?
+** What other references do you want to follow?
