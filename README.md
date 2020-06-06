@@ -35,7 +35,7 @@ List of content studied or to study
 * [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155) by Xu et al. NDSS. 2018.
 
 #### Facial Recognition
-
+* [Can we still avoid automatic face detection?](https://paperswithcode.com/paper/can-we-still-avoid-automatic-face-detection) by Wilber et al. 2020.
 
 ## Natural Language Processing
 * [The Future of Natural Language Processing](https://www.youtube.com/watch?v=G5lmya6eKtc) by Thomas Wolf for Hugging Face. 2020.
