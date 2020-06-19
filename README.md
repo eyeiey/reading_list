@@ -1,8 +1,8 @@
 # Knowledge Base
 List of content studied or to study
 
-## AI Safety
-
+## General Artificial Intelligence
+* [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547) by Chollet, 2019.
 
 ## Deep Learning
 * [Modèles multi-échelles et réseaux de neurones convolutifs](https://www.college-de-france.fr/site/stephane-mallat/course-2019-2020.htm) by Stéphane Mallat, Lectures, Collège de France, 2019-2020.
