@@ -37,6 +37,9 @@ List of content studied or to study
 #### Facial Recognition
 * [Can we still avoid automatic face detection?](https://paperswithcode.com/paper/can-we-still-avoid-automatic-face-detection) by Wilber et al. 2020.
 
+#### Generative Adversarial Networks
+* [Conditional Image Synthesis with Auxiliary Classifier GANs](https://arxiv.org/pdf/1610.09585.pdf) by Odena et al. 2017.
+
 ## Natural Language Processing
 * [The Future of Natural Language Processing](https://www.youtube.com/watch?v=G5lmya6eKtc) by Thomas Wolf for Hugging Face. 2020.
 * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) by Brown et al. 2020.
