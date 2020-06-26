@@ -45,6 +45,7 @@ List of content studied or to study
 * [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) by Brown et al. 2020.
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) by Devlin et al. 2018.
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762) by Vaswani et al. 2017.
+* [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759) by Joulin et al. 2016.
 
 
 ## Cognitive Sciences
