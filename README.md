@@ -56,6 +56,7 @@ List of content studied or to study
 * [Generating Adversarial Examples with Adversarial Networks](https://arxiv.org/abs/1801.02610) by Xiao et al. 2019.
 * [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894) by Song et al. 2018.
 * [AT-GAN: An Adversarial Generator Model for Non-constrained Adversarial Examples](https://arxiv.org/abs/1904.07793) by Wang et al. 2020.
+* [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644) by Carlini et al. 2017.
 
 
 ## Cognitive Sciences
