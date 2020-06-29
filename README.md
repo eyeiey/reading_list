@@ -5,9 +5,14 @@ List of content studied or to study
 * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547) by Chollet, 2019.
 
 ## Deep Learning
+
+### General
 * [Modèles multi-échelles et réseaux de neurones convolutifs](https://www.college-de-france.fr/site/stephane-mallat/course-2019-2020.htm) by Stéphane Mallat, Lectures, Collège de France, 2019-2020.
 * [L'apprentissage par réseaux de neurones profonds](https://www.college-de-france.fr/site/stephane-mallat/course-2018-2019.htm) by Stéphane Mallat, Lectures, Collège de France, 2018-2019.
 * [L'apprentissage face à la malédiction de la grande dimension](https://www.college-de-france.fr/site/stephane-mallat/course-2017-2018.htm) by Stéphane Mallat, Lectures, Collège de France, 2017-2018.
+
+### Distillation
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) by Hinton et al. 2015.
 
 ## Reinforcement Learning
 * [Open AI Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/) by OpenAI.
@@ -30,9 +35,6 @@ List of content studied or to study
 
 
 ## Computer Vision
-#### Adversarial Attacks
-* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf) by Madry et al. Stat.ML 2019.
-* [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155) by Xu et al. NDSS. 2018.
 
 #### Facial Recognition
 * [Can we still avoid automatic face detection?](https://paperswithcode.com/paper/can-we-still-avoid-automatic-face-detection) by Wilber et al. 2020.
@@ -46,6 +48,14 @@ List of content studied or to study
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) by Devlin et al. 2018.
 * [Attention Is All You Need](https://arxiv.org/abs/1706.03762) by Vaswani et al. 2017.
 * [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759) by Joulin et al. 2016.
+
+
+## Adversarial Attacks
+* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf) by Madry et al. Stat.ML 2019.
+* [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155) by Xu et al. NDSS. 2018.
+* [Generating Adversarial Examples with Adversarial Networks](https://arxiv.org/abs/1801.02610) by Xiao et al. 2019.
+* [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894) by Song et al. 2018.
+* [AT-GAN: An Adversarial Generator Model for Non-constrained Adversarial Examples](https://arxiv.org/abs/1904.07793) by Wang et al. 2020.
 
 
 ## Cognitive Sciences
