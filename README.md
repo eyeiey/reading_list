@@ -40,6 +40,8 @@ List of content studied or to study
 * [Can we still avoid automatic face detection?](https://paperswithcode.com/paper/can-we-still-avoid-automatic-face-detection) by Wilber et al. 2020.
 
 #### Generative Adversarial Networks
+* [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Goodfellow et al. 2014.
+* [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498) by Salimans et al. 2016.
 * [Conditional Image Synthesis with Auxiliary Classifier GANs](https://arxiv.org/pdf/1610.09585.pdf) by Odena et al. 2017.
 
 ## Natural Language Processing
